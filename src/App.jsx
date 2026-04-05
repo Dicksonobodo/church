@@ -6,7 +6,7 @@ import Attendance from "./pages/Attendance"
 import Members from "./pages/Members"
 import Report from "./pages/Report"
 import NewConverts from "./pages/NewConverts"
-import Checkin from "./pages/Checkin"
+import CheckIn from "./pages/CheckIn"
 
 function ProtectedRoute({ children }) {
   const { user, loading } = useAuth()

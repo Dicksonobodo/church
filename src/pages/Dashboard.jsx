@@ -106,7 +106,7 @@ export default function Dashboard() {
       <div className="border-b border-gray-100 px-5 py-4">
         <div className="max-w-xl mx-auto flex justify-between items-center">
           <div>
-            <p className="font-bold text-gray-900">RCCG House of Praise</p>
+            <p className="font-bold text-gray-900">RCCG Church of Christ</p>
             <p className="text-xs text-gray-400">{dayName}</p>
           </div>
           <button onClick={logout}

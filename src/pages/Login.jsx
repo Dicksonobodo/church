@@ -30,7 +30,7 @@ export default function Login() {
           <div className="w-14 h-14 bg-black rounded-2xl flex items-center justify-center mx-auto mb-4">
             <span className="text-white text-xl font-bold">R</span>
           </div>
-          <h1 className="text-xl font-bold text-gray-900">RCCG House of Praise</h1>
+          <h1 className="text-xl font-bold text-gray-900">RCCG Church of Christ</h1>
           <p className="text-sm text-gray-400 mt-1">Attendance Management</p>
         </div>
 

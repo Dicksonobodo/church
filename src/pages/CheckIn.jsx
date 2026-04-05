@@ -95,7 +95,7 @@ export default function CheckIn() {
           <div className="w-16 h-16 bg-black rounded-2xl flex items-center justify-center mx-auto mb-3">
             <span className="text-white text-2xl font-bold">R</span>
           </div>
-          <p className="font-bold text-gray-900">RCCG House of Praise</p>
+          <p className="font-bold text-gray-900">RCCG Church of Christ</p>
           {serviceDate && <p className="text-xs text-gray-400 mt-0.5">{formatDate(serviceDate)}</p>}
         </div>
 

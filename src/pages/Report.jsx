@@ -231,7 +231,7 @@ export default function Report() {
           <div ref={printRef} className="space-y-4">
 
             <div className="border border-gray-100 rounded-2xl p-4 text-center">
-              <p className="font-bold text-gray-900">RCCG House of Praise</p>
+              <p className="font-bold text-gray-900">RCCG Church of Christ</p>
               <p className="text-sm text-gray-400 mt-0.5">{formatDate(selectedService.date)}</p>
             </div>
 
